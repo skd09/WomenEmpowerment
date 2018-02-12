@@ -2,17 +2,22 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item
         android:id="@+id/home"
-        android:title="Home"/>
+        android:title="Dashboard"
+        android:icon="@drawable/ic_dashboard"/>
     <item
         android:id="@+id/business"
-        android:title="Business"/>
+        android:title="Business"
+        android:icon="@drawable/ic_business"/>
     <item
         android:id="@+id/upload"
-        android:title=""/>
+        android:title="Upload Task"
+        android:icon="@drawable/ic_add"/>
     <item
         android:id="@+id/news"
-        android:title="Newsfeed"/>
+        android:title="Newsfeed"
+        android:icon="@drawable/ic_news"/>
     <item
         android:id="@+id/setting"
-        android:title="Settings"/>
+        android:title="Settings"
+        android:icon="@drawable/ic_settings"/>
 </menu>

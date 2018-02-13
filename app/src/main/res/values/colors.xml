@@ -2,8 +2,9 @@
 <resources>
     <color name="colorPrimary">#fe485a</color>
     <color name="colorPrimaryDark">#fe485a</color>
-    <color name="colorAccent">#FFF</color>
+    <color name="colorAccent">#fe485a</color>
 
     <color name="bgBottomNavigation">#fe485a</color>
     <color name="red">#EF5350</color>
+    <color name="transparent">#00FFFFFF</color>
 </resources>
